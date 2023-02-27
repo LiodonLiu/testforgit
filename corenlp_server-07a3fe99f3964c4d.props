@@ -1,0 +1,4 @@
+annotators = depparse,openie
+
+outputFormat = serialized
+
